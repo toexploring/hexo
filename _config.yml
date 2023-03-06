@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: 'git'
   repo: git@124.222.51.148:/home/git/blog.git
-  branch: master
+  branch: main
